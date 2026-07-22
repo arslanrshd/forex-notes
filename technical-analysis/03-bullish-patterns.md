@@ -90,11 +90,11 @@ Strong and sustained buying momentum, indicating buyers are in control.
 
 ## Key Points
 
-* Most reliable near **support** levels.
-* Wait for the pattern to **close** before making a trading decision.
-* Confirmation from the next candle is recommended.
-* Combine with **Support & Resistance**, **Trend Analysis**, or other technical tools for better accuracy.
+* Most reliable when forming near **support** levels.
+* Wait for the pattern candle to **close** before making a trading decision.
+* Confirmation from the next candle is strongly recommended.
+* Combine with **Support & Resistance**, **Trend Analysis**, or other technical tools for better confirmation.
 
 ## Summary
 
-Bullish candlestick patterns indicate increasing buying pressure and may signal the beginning of an upward price movement when confirmed by additional analysis.
+Bullish candlestick patterns indicate increasing buying pressure and may signal the beginning of an upward price movement when confirmed by additional market context.
