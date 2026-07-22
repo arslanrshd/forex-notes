@@ -123,7 +123,7 @@ forex-notes/
 
 # ✍️ Note Format
 
-Every note follows a consistent structure.
+Every note follows a clear and consistent structure. Depending on the topic, a note may include sections such as:
 
 ```markdown
 # Topic Name
@@ -132,7 +132,19 @@ Every note follows a consistent structure.
 
 ...
 
-## Why It Matters
+## Types / Components (if applicable)
+
+...
+
+## Structure (if applicable)
+
+...
+
+## Meaning / Purpose
+
+...
+
+## Usage (if applicable)
 
 ...
 
@@ -140,20 +152,11 @@ Every note follows a consistent structure.
 
 ...
 
-## Examples
-
-...
-
-## Resources
-
-...
-
-## Personal Notes
+## Summary
 
 ...
 ```
 
----
 
 # 📈 Progress
 
