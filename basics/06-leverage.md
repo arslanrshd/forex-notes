@@ -8,13 +8,25 @@
 
 If you have **$100** and use **1:100 leverage**, you can control a position worth **$10,000**.
 
+## Common Leverage Ratios
+
+* **1:10**
+* **1:20**
+* **1:50**
+* **1:100**
+* **1:200**
+* **1:500**
+
+Different brokers offer different maximum leverage ratios.
+
 ## Key Points
 
-* Leverage is provided by your **Forex broker**.
+* Leverage is provided by your Forex broker.
 * It increases your buying power.
-* It can amplify both **profits** and **losses**.
-* Higher leverage also means higher risk.
+* It amplifies both profits and losses.
+* Higher leverage means higher risk.
+* Lower leverage generally reduces risk.
 
 ## Summary
 
-Leverage allows traders to open larger positions with less capital, but it should be used carefully because it increases both potential gains and potential losses.
+Leverage allows traders to control larger positions with less capital. While it can increase potential profits, it also increases potential losses, so it should be used carefully.
